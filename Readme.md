@@ -1,4 +1,4 @@
-OpenCore-Asrock-B560M-ITX-AC
+硬件配置：
 
 显卡：Onda RX560 典范 4G DDR5
 
